@@ -7,3 +7,4 @@ hello git!
 hello git!
 hello git!mast test
 hello git!hot-fix
+你好
